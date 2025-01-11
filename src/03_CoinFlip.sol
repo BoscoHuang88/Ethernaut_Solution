@@ -6,7 +6,7 @@ Author: @BoscoHuang
 
 Process:
 - Deploy Fallout contract in anvil: 
-    1. anvil
+    0. anvil
     1. forge create src/03_CoinFlip.sol:CoinFlip  --rpc-url http://127.0.0.1:8545 --private-key 0x....
 */
 

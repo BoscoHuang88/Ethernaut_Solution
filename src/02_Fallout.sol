@@ -9,7 +9,7 @@ Author: @BoscoHuang
 Process:
 - Install openzeppelin-contracts: forge install OpenZeppelin/openzeppelin-contracts@v3.4.2
 - Deploy Fallout contract in anvil: 
-    1. anvil
+    0. anvil
     1. forge create src/02_Fallout.sol:Fallout  --rpc-url http://127.0.0.1:8545 --private-key 0x....
 */
 

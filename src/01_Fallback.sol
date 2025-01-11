@@ -6,7 +6,7 @@ Author: @BoscoHuang
 
 Process:
 - Deploy Fallback contract in anvil: 
-    1. anvil
+    0. anvil
     1. forge create src/01_Fallback.sol:Fallback  --rpc-url http://127.0.0.1:8545 --private-key 0x....
 */
 
